@@ -1,0 +1,27 @@
+a{color: gray; text-decoration: none;}
+h1 , h2 , h3 , h4 , h5 , h6 , p{font-family: Comic Sans MS}
+.header{height: 500px; background: url("2.jpg"); text-align: center;  padding: 10px;}
+.contener{width: 880px; margin: auto;}
+.clear{clear: both;}
+.header h1{color: rgb(29, 70, 110); font-size:50px ; margin-top: 70px;}
+.header button{background: none; height: 50px; width: 200px; color: darkcyan; font-size: 100; font-family: Comic Sans MS}
+.menu{height: 40px; padding-top: 10px; background: #66329A;}
+.menu .contener h2{color: aliceblue; float:  left; position: relative; bottom: 35px;}
+.menu .contener ul{list-style: none;}
+.menu .contener ul li{float: right; color: azure; position: relative; bottom: 10px; margin-left: 30px;}
+.menu .contener ul li:hover{color: rgb(255, 0, 149); border-left: solid 1px wheat ;}
+.activates{margin-top: 30px;}
+.activates .contener .box1{float: left; width: 40%;}
+.activates .contener .m{float: right; width: 100%;}
+.clear{clear: both;} 
+.activates .contener .box2 .b1{float: left; width: 25%; text-align: center;}
+.activates .contener .box2 .b1 img{width: 100%;}
+.path{margin-top: 100px;} 
+.path .contener h1{text-align: center;}
+.path .contener .b2{float: left; width: 33.333%; text-align: center;}
+.path .contener .b2 img{width: 60%;}
+.footer{background: #66329A; height: 400px; color: bisque;}
+.footer .contener .part1{float: left; width: 40%;}
+.footer .contener form{float: right;}
+.footer .contener form input , .footer .contener form textarea , .footer .contener form button  {margin: 30px;}
+.contener form textarea{width: 200px;}
